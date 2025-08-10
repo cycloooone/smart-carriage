@@ -2,3 +2,14 @@ I just want to say that this project gonna be my first one.
 I feel interested in transport and this is new transport system.
 However for now I have more questions than answers, but I am sure that I will come back and tell you what I meant in details.
 Thank you.
+
+Planning to build a system of adaptability of carriages, so carriages adapt and change their descisions by the user's inputs in REAL-TIME. 
+This makes it(not sure yet) a ML implementation.
+Key realization is that the space would be in Air 3D, which gives complete freedom of direction(at least for now).
+When space is 3D the carriages will be divided to:
+    -- Shuttle - pick up user from the ground & dilever to the air (+vice versa)
+    -- Cruiser - handle the overall change of direction and delivery
+Both of them will be in system of adaptability and that means that they don't possess static route.
+Shuttles can:
+    -- connect/disconnect with another shuttles to transfer passengers (both in static & dynamic states)
+    
