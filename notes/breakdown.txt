@@ -12,4 +12,5 @@ When space is 3D the carriages will be divided to:
 Both of them will be in system of adaptability and that means that they don't possess static route.
 Shuttles can:
     -- connect/disconnect with another shuttles to transfer passengers (both in static & dynamic states)
-    
+
+Implementation and visualization at first state will be at 2D space.
