@@ -1,0 +1,16 @@
+Phase 1:
+    Title: Building surface
+    Description: Build a surface with laws and objects
+    Stack: Godot 4
+    Start Date: 14.08.2025
+
+    Daily plans:
+        - 14.08.2025:
+            Scenes and Nodes [start]
+            Scenes and Nodes [practice]
+            Working with Code [start]
+            Interaction of Nodes [start]
+            Delta
+
+
+
